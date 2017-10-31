@@ -650,7 +650,7 @@
     </recent_temporary>
   </component>
   <component name="SbtLocalSettings">
-    <option name="lastUpdateTimestamp" value="1509466319796" />
+    <option name="lastUpdateTimestamp" value="1509466673439" />
     <option name="externalProjectsViewState">
       <projects_view />
     </option>
@@ -666,12 +666,12 @@
       <option name="presentableId" value="Default" />
       <updated>1509463599232</updated>
       <workItem from="1509463607064" duration="2991000" />
-      <workItem from="1509466660742" duration="5000" />
+      <workItem from="1509466660742" duration="34000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2996000" />
+    <option name="totallyTimeSpent" value="3025000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="2182" height="1402" extended-state="6" />
