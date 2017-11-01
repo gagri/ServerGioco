@@ -1,7 +1,6 @@
 version '1.0-SNAPSHOT'
 
 apply plugin: 'java'
-apply plugin: 'checkstyle'
 
 sourceCompatibility = 1.8
 
@@ -20,11 +19,4 @@ dependencies {
     testCompile group: 'junit', name: 'junit', version: '4.12'
     compile group: 'com.google.code.gson', name: 'gson', version: '2.7'
     compile group: 'org.restlet.jee', name: 'org.restlet', version: '2.3.12'
-}
-
-tasks.withType(Checkstyle) {
-    ignoreFailures = true
-    reports {
-        html.enabled = true
-    }
 }
